@@ -2,3 +2,5 @@ Te lista los archivos modificados:
     git status 
 Agregar los archivos modificados: 
     git add . 
+Commit
+    git commit -m "Descripcion"
