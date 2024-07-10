@@ -1,0 +1,4 @@
+cd 
+cd /var/src 
+ls -l -> listar carpetas en archivo 
+pwd -> te dice en que ruta estas 
