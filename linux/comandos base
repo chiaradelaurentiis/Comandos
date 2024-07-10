@@ -1,4 +1,7 @@
-cd 
-cd /var/src 
-ls -l -> listar carpetas en archivo 
-pwd -> te dice en que ruta estas 
+Te direcciona a una carpeta
+    cd 
+    cd /var/src 
+Listar carpetas en archivos
+    ls -l
+Te dice en que ruta estas
+    pwd
