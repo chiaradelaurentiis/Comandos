@@ -1,0 +1,22 @@
+Comandos
+
+*Levantar el server docker de la aplicacion*
+    Docker up
+    docker exec -it backoffice bash
+
+root@backoffice:/var/www# -> ya estoy dentro del controlador 
+
+*Crear un controlador dentro del docker*
+Php artisan make:controller Admin/kiaraController 
+
+*Crear un modelo dentro del docker, con factory y migracion*
+Php artisan make:model models/chiara -fm 
+-fm = factory y migraciones
+
+*migrar a la base de datos*
+pa migrate 
+
+*revertir la migracion* 
+pa migrate:rollback 
+
+
